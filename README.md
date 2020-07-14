@@ -1,6 +1,16 @@
 # COVID-19 Tracker
 
-API used: https://covid19.mathdro.id/api
+API: [Covid19 Mathdro](https://covid19.mathdro.id/api)
 
-Setup:
-- run ```npm i && npm start```
+## How to run
+
+```
+$ npm install
+$ npm start
+```
+
+## Previews
+
+![alt]("./previews/1.png")
+
+![alt]("./previews/2.png")
