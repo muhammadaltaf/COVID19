@@ -11,6 +11,6 @@ $ npm start
 
 ## Previews
 
-![alt]("./previews/1.png")
+![alt]("previews/1.png")
 
-![alt]("./previews/2.png")
+![alt]("previews/2.png")
